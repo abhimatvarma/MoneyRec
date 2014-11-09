@@ -352,6 +352,11 @@ public class MoneyRecApi {
 				tickterm.close();
 				
 				System.out.println(idDictionary);
+				recomendationList.clear();
+				idDictionary.clear();
+				idTickData.clear();
+				topIdTickData.clear();
+				idNameMap.clear();
 		
 		 }
 
